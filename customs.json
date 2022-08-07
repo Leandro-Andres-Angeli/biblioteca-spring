@@ -1,0 +1,17 @@
+{
+    "elements": {},
+    "attributes": {
+        "th:if": {
+            "context": "div"
+        },
+        "th:text": {
+            "context": "p"
+        },
+        "integrity": {
+            "context": "link"
+        },
+        "th:each": {
+            "context": "tr"
+        }
+    }
+}
